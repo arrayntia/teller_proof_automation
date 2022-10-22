@@ -1,1 +1,1 @@
-# teller_proof_automation: This project design is to helping and replace the manua method of a bank Teller trying input money in an excel sheet, and also tryning to minumine the great expencise incurse on paper wastage.
+# teller_proof_automation: This project design help and replace the manua method of a bank Teller trying input money in an excel sheet, and also tryning to minumine the great expencise incurse on paper wastage.
